@@ -1,0 +1,19 @@
+PODS:
+  - CoreDataImportKit (0.1.0)
+  - MagicalRecord (2.3.2):
+    - MagicalRecord/Core (= 2.3.2)
+  - MagicalRecord/Core (2.3.2)
+
+DEPENDENCIES:
+  - CoreDataImportKit (from `~/code/orangeqc/CoreDataImportKit/`)
+  - MagicalRecord (~> 2.3)
+
+EXTERNAL SOURCES:
+  CoreDataImportKit:
+    :path: "~/code/orangeqc/CoreDataImportKit/"
+
+SPEC CHECKSUMS:
+  CoreDataImportKit: fd770fb4c5713c1fc91c0b3ff99f69c7a0a3c95f
+  MagicalRecord: 53bed74b4323b930992a725be713e53b37d19755
+
+COCOAPODS: 0.39.0

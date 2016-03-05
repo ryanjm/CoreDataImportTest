@@ -1,0 +1,6 @@
+framework module CoreDataImportKit {
+  umbrella header "CoreDataImportKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
